@@ -1,0 +1,1 @@
+Este repositorio trata sobre archivos de entrada y salida, y cómo utilizar Pandas con diferentes tipos de archivos, como CSV, XLSX (Excel), JSON, XML y todos aquellos que se puedan convertir en un DataFrame con Pandas.
